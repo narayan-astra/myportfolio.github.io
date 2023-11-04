@@ -1,2 +1,1 @@
-# myportfolio.github.io
-mypotfolio
+# my_site
